@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RxGallery</string>
+    <string name="start_loading">Start loading</string>
+    <string name="cancel_loading">Cancel loading</string>
+    <string name="image">image</string>
+</resources>
